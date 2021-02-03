@@ -3,7 +3,7 @@
   "name": "chrome-extension-report",
   "version": "0.0.0",
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "worker.js"
   },
   "action": {
     "default_title": "Download"
